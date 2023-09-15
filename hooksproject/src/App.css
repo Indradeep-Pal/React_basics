@@ -1,0 +1,10 @@
+#root {
+  margin : 0 auto;
+  color:white;
+}
+
+.heading{
+  min-width: 600px;
+  font-size:xx-large;
+  text-align: center;
+}
